@@ -1,2 +1,4 @@
-<script setup></script>
+<script setup>
+    definePageMeta({ layout: 'public' })
+</script>
 <template></template>
